@@ -1,21 +1,21 @@
-<<<<<<< HEAD
-# Van App 
+<h1 align="center">Hi 👋, I'm Muhammad Hasnain</h1>
+<h3 align="center">A passionate Flutter developer from Pakistan</h3>
 
-A new Flutter project.
+- 🔭 I’m currently working on [Van app Manager](https://github.com/Hasnain369/Van-App-Pick-and-Drop-manager)
 
-## Getting Started
+- 🌱 I’m currently learning **Flutter , Python , Django**
 
-This project is a starting point for a Flutter application.
+- 👯 I’m looking to collaborate on **LinkedIn**
 
-A few resources to get you started if this is your first Flutter project:
+- 👨‍💻 All of my projects are available at [muhammadhasnain.lovable.app](muhammadhasnain.lovable.app)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 💬 Ask me about **Flutter , Python**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Van-App-Pick-and-Drop-manager
-My brother drives a van and he pick and drop students so  i created and an app for that Van Pick and Drop manager in which we  can take recored and add new students and also save the data and export it in mobile phone also can restore it  I built this using Flutter + Sqlite(database) 
->>>>>>> 20e95d998df0ebad813e9ff765ed0662b90e04e8
+- 📫 How to reach me **hasnain33mailsi@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
